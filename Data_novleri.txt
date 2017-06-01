@@ -1,0 +1,1 @@
+Data  novleri  bunlardir:  byte, sbyte, int, uint, short, usshort, long, ulong, float, double, char, bool, object, string, decimal.

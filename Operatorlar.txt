@@ -1,0 +1,5 @@
+/Operatorlar/
+
+Riyazi operatorlar: +, -, *, /, %, ++,  -
+
+Mentig operatorlari: &&, | | , !
